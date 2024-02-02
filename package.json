@@ -10,7 +10,7 @@
 	"scripts": {
 	  "start": "run-script-os",
 	  "start:win32": "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --directory --port 7777 --browser \"C:\\Program Files\\Firefox Developer Edition\\firefox.exe\"",
-	  "//": "Hello! If you are having trouble running this command. Try changing Firefox Developer Edition to FirefoxDeveloperEdition",
+	  "//": "If you are having trouble running this command. Try changing Firefox Developer Edition to FirefoxDeveloperEdition",
 	  "start:darwin:linux": "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --directory --port 7777",
 	  "test": "echo \"Error: no test specified\" && exit 1"
 	},
@@ -25,9 +25,9 @@
 	"author": "Afdinal Ghibran Batubara",
 	"license": "",
 	"bugs": {
-	  "url": "https://github.com/faahim/happy-birthday/issues"
+	  "url": "https://github.com/takahashizen/takahashizen.github.io"
 	},
-	"homepage": "https://github.com/faahim/happy-birthday#readme",
+	"homepage": "https://github.com/takahashizen/takahashizen.github.io#readme",
 	"dependencies": {}
   }
   
